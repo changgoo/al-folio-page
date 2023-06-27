@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
+title: SMAUG Galactic Winds
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/smaug.jpg
+redirect: https://changgoo.github.io/tigress-wind-figureset/index.html
 importance: 1
 category: work
 ---

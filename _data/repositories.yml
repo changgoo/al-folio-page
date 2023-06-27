@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - changgoo
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - changgoo/Twind
+  - changgoo/PRFM
+  - PrincetonUniversity/astro-tigress
+  - PrincetonUniversity/athena
+  - PrincetonUniversity/tigris

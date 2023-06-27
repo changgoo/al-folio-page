@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
+title: TIGRESS
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/tigress.jpg
+redirect: http://changgoo.github.io/tigress-web/
 importance: 2
 category: work
 ---
