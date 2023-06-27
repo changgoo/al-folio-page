@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://changgoo.github.io/al-folio-page/sitemap.xml
+Sitemap: https://changgoo.github.io/al-folio-page//sitemap.xml
